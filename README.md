@@ -1,2 +1,2 @@
-# softwareWookieFactory
-Summer app development project with MSU's Software Factory
+# Software Wookie Factory
+Summer app development project with MSU's Software Factory. Welcome
