@@ -13,6 +13,7 @@ Summer app development project with [MSU's Software Factory](http://www.bobcatso
 
 ## Resources
 - [Code Academy] (http://www.codecademy.com/): good overviews of Python and JavaScript
+  - Also a new [command-line tutorial](http://www.codecademy.com/en/learn/learn-the-command-line) that might help you use gitbash
 - Git
   - [Interactive Git tutorial] (https://www.codeschool.com/courses/try-git)
   - [Pro Git] (http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control): a very through introduction to version control and git
